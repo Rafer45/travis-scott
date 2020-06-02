@@ -1,0 +1,19 @@
+{
+  "name": "travis-scott",
+  "version": "1.0.0",
+  "description": "learning to use Travis",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rafer45/travis-scott.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rafer45/travis-scott/issues"
+  },
+  "homepage": "https://github.com/Rafer45/travis-scott#readme"
+}
